@@ -1,0 +1,1 @@
+ spark-submit  --verbose  --class com.opensource.bigdata.spark.standalone.RunTextFileMkString2  --master spark:\\standalone:7077 --name local-10 D:\\workspaces\\bigdata\\spark-scala-maven\\target\\spark-scala-maven-1.0-SNAPSHOT.jar
